@@ -21,7 +21,7 @@ repository               : "hashimotocullen/hashimotocullen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/IMG_3808.JPG"
+  avatar           : "IMG_3808.JPG"
   name             : "Chloé Hashimoto-Cullen"
   pronouns         : "she/her"  
   bio              : "PhD student at LPSM | ML for Electricity Consumption Prediction"
