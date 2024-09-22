@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chloé Hashimoto-Cullen / Site Title"
+title                    : "Chloé Hashimoto-Cullen"
 title_separator          : "-"
 name                     : &name "Chloé Hashimoto-Cullen "
 description              : &description "personal description"
@@ -21,10 +21,10 @@ repository               : "hashimotocullen/hashimotocullen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "images/IMG_3808.JPG"
+  name             : "Chloé Hashimoto-Cullen"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD student at LPSM | ML for Electricity Consumption Prediction"
   location         : "Paris, France"
   employer         : "LPSM, Sorbonne Université"
   uri              : # URL
