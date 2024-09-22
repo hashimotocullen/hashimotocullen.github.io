@@ -20,6 +20,7 @@ Work experience
 * 2021 - 2023: Bloomberg L.P.
   * Advanced Data Analytics Deputy Team Leader
   * Fixed Income Senior Specialist
+  * ESG Focus Group
  
 Languages
 ======
