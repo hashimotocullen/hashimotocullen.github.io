@@ -11,6 +11,6 @@ author_profile: true
 
 ## Reviewing activities
 
-* [NeurIPS] (https://neurips.cc) 2026
+* [NeurIPS](https://neurips.cc) 2026
 * [AISTATS](https://virtual.aistats.org/) 2026
 * [TMLR](http://jmlr.org/tmlr/)
