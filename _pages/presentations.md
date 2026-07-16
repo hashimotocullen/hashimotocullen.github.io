@@ -5,36 +5,26 @@ permalink: /presentations/
 author_profile: true
 ---
 
-**[Journées des Statistiques 2026](https://jds2026.sciencesconf.org), session Groupe Spécialiste Stat Bayésienne, Fiabilité et incertitude**
+**[Journées des Statistiques 2026](https://jds2026.sciencesconf.org), session Groupe Spécialiste Stat Bayésienne, Fiabilité et incertitude**\
 Clermont-Ferrand, France, June 2026 — invited talk
 
-**[Machine Learning @ LPSM Group](https://ml.lpsm.paris) Launch day**
+**[Machine Learning @ LPSM Group](https://ml.lpsm.paris) Launch day**\
 Paris, France, May 2026 — talk
 
-**AI, Global Grid and Energy for the Future**
+**AI, Global Grid and Energy for the Future**\
 Paris, April 2026 — invited talk
 
-**Sorbonne University Cluster for Artificial Intelligence (SCAI) PhD day**
+**Sorbonne University Cluster for Artificial Intelligence (SCAI) PhD day**\
 Paris, France, December 2025 — poster
 
-**[Autumn School on Recent Advances in Machine Learning](https://mlataussois.sciencesconf.org)**
+**[Autumn School on Recent Advances in Machine Learning](https://mlataussois.sciencesconf.org)**\
 Aussois, France, November 2025 — talk
 
-**[Machine Learning Summer School](https://web.archive.org/web/20260115031311/https://eventosdiee.ucsp.edu.pe/mlss/)**
+**[Machine Learning Summer School](https://web.archive.org/web/20260115031311/https://eventosdiee.ucsp.edu.pe/mlss/)**\
 Arequipa, Peru, August 2025 — poster
 
-**[Advances in Post-Bayesian Methods Workshop](https://postbayes.github.io/workshop2025/), University College London**
+**[Advances in Post-Bayesian Methods Workshop](https://postbayes.github.io/workshop2025/), University College London**\
 London, UK, May 2025 — poster
 
-**UCL AI Centre and Foundational AI CDT Retreat**
+**UCL AI Centre and Foundational AI CDT Retreat**\
 Buckinghamshire, UK, May 2025 — talk
-<!-- 
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %} -->
