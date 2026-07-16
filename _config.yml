@@ -31,10 +31,10 @@ author:
   email            : hashimoto@lpsm.paris
 
   # Academic websites
+  googlescholar    : "https://scholar.google.com/citations?user=Jnde54kAAAAJ&hl=en&oi=ao"
   arxiv            : "https://arxiv.org/a/hashimotocullen_c_1.html"
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0006-7329-8647"
+  orcid            : # "https://orcid.org/0009-0006-7329-8647"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -52,7 +52,7 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : # Username
+  goodreads        : 196564082-chlo
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
