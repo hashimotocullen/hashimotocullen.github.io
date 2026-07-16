@@ -31,4 +31,5 @@ Languages
   
 Teaching
 ======
-* COMP0187 Teaching Assistant 2024-2025
+* 2025-2026 UCL COMP0187 Teaching Assistant
+* 2024-2025 UCL COMP0187 Teaching Assistant
