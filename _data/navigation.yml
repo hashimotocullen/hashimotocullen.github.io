@@ -7,10 +7,13 @@
 main:
   # - title: "About"
   #   url: /about/
+  - title: "Publications"
+    url: /publications/
   - title: "Presentations"
     url: /presentations/
   - title: "Service"
     url: /service/
-
+  - title: "Teaching"
+    url: /teaching/
   - title: "Curriculum Vitae"
     url: /cv/
